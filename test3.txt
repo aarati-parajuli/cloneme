@@ -1,0 +1,4 @@
+1st line to test rebase
+2nd line for merge
+3rd for merge
+4th for fork
